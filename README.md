@@ -6,4 +6,5 @@ python 'path' local ip address
 
 # Example
 python c:\Users\username\Desktop\SERVER.PY 192.168.0.109
+
 python c:\Users\username\Desktop\CLIENT.PY 192.168.0.109
